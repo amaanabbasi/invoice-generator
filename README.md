@@ -1,5 +1,5 @@
 # invoice-generator.py
-Generate invoices in Python requests library with the Invoice Generator API.
+Generate invoices in Python3 requests library with the Invoice Generator API.
 
 Usage
 
